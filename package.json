@@ -1,0 +1,19 @@
+{
+  "name": "04.tareas",
+  "version": "1.0.0",
+  "description": "\"Ligera aplicación de tareas usando Node\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cometaue1@gmail.com"
+  },
+  "author": "Luis Obando",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
